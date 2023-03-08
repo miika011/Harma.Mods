@@ -5,8 +5,8 @@
 
 # Compiled files
 *.dll
-./obj
-./bin
+*/obj
+*/bin
 
 # User-specific files
 *.rsuser
