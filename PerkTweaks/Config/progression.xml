@@ -1,0 +1,7 @@
+<configs>
+	<!-- Set XP per levelup to 1 for practise -->
+	<set xpath="progression/level/@exp_to_level">1</set>	
+	<set xpath="progression/level/@experience_multiplier">1</set>	
+	<!-- Tweak Parkour perk so that you only can jump up to 2 meters at 4/4-->
+	<set xpath="progression/perks/perk[@name='perkParkour']/effect_group/passive_effect[@name='JumpStrength']/@value">0.0,0.0,0.39</set>
+</configs>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="PerkTweaks" />
+		<Description value="Tweaks for vanilla perks" />
+		<Author value="Frank Zappa" />
+		<Version value="0.1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
